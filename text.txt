@@ -1,10 +1,5 @@
- Volume in drive C is Win 10
- Volume Serial Number is 5A76-EB0B
+ git branch --set-upstream-to=origin/<branch> master
 
- Directory of C:\Users\user\Desktop\C Programs
+git pull --allow-unrelated-histories
 
-16-09-2020  22:46    <DIR>          .
-16-09-2020  22:46    <DIR>          ..
-16-09-2020  22:46                 0 text.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  48,038,985,728 bytes free
+if any  error when we push into repostiory
