@@ -7,4 +7,5 @@
     printf("Perimeter of rectangle= %d inches\n",p);
     int area=l*b;
     printf("Area of rectangle= %d square inches\n",area);
+    return 0;
  }
