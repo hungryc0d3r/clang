@@ -1,7 +1,7 @@
 //Write a C program to convert specified days into years, weeks and days.
 // @hungryc0d3r
 #include<stdio.h>
-int main()
+void main()
 {
   int numOfDays=1329;
   int years=(numOfDays/365);
